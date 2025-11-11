@@ -27,7 +27,7 @@
 ---
 
 ### 🧠 About Me:
-- 🎓 **BCA Graduate** and pursuing **Full Stack Development**  
+- 🎓 **BCA Graduate** and  **Full Stack Development**  
 - 💻 Skilled in **React, Node.js, Express, MongoDB, PHP, Laravel, MySQL, Tailwind CSS**  
 - 🌱 Currently exploring **GenAI + Web Development Integration**  
 - 🧩 Passionate about **community-based projects** for Kasaragod  
