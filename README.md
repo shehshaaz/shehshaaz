@@ -178,13 +178,13 @@ Interactive portfolio showcasing:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdulhanvas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhanvas&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shehshaaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shehshaaz&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhanvas&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulhanvas&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehshaaz&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=shehshaaz&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
@@ -192,7 +192,7 @@ Interactive portfolio showcasing:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulhanvas&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shehshaaz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 </div>
 
 ---
@@ -200,9 +200,9 @@ Interactive portfolio showcasing:
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulhanvas/abdulhanvas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulhanvas/abdulhanvas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdulhanvas/abdulhanvas/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shehshaaz/shehshaaz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shehshaaz/shehshaaz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shehshaaz/shehshaaz/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -225,7 +225,7 @@ const currentStatus = {
 ## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdulhanvas&theme=tokyonight&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shehshaaz&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
 ---
@@ -255,7 +255,7 @@ const currentStatus = {
 
 <div align="center">
   
-[![Spotify](https://novatorem-abdulhanvas.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR-SPOTIFY-ID)
+[![Spotify](https://novatorem-shehshaaz.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR-SPOTIFY-ID)
 
 </div>
 
@@ -293,9 +293,9 @@ Other        1 hr 10 mins    █░░░░░░░░░░░░░░░░
 
 If you like my projects, consider buying me a coffee! ☕
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abdulhanvas)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/abdulhanvas)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/abdulhanvas)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shehshaaz)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shehshaaz)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/shehshaaz)
 
 </div>
 
